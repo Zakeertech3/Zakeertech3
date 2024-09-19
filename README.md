@@ -24,7 +24,7 @@
 <h1>📊 GitHub Stats:</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakeerS&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zakeertech3&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </div>
 
 <br/>
@@ -36,7 +36,7 @@
 <h2>🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zakeerS&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Zakeertech3&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </div>
 
 <h3>✍️ Random Dev Quote</h3>
