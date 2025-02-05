@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Hi there 👋, I'm Shaik Mohammed Zakeer</h1>
-  <h3>✨ Aspiring Jr. Data Scientist | Data Analyst | Azure Data Engineer | Data Engineer ✨</h3>
+  <h3>✨ Jr. Data Scientist | Data Analyst | Azure Data Engineer | Data Engineer ✨</h3>
 </div>
 
 ---
@@ -41,7 +41,7 @@ Git 🖊️, Azure DevOps 🚀, GitHub Actions 🔏
 Azure ✨, AWS ☁️, Terraform 🛠️, Docker 🚢
 
 🔹 **Data Analysis & Machine Learning**:  
-Pandas 📃, NumPy 📊, Scikit-learn 🧙‍♂️, Statistics 🔢, A/B Testing 🔢
+Pandas 📃, NumPy 📊, Scikit-learn 🧙‍♂️, Statistics 🔢, A/B Testing 🔢, Exploratory Data Analysis 📊, Data Cleaning 🗒️
 
 ---
 
@@ -53,11 +53,19 @@ Pandas 📃, NumPy 📊, Scikit-learn 🧙‍♂️, Statistics 🔢, A/B Testin
 
 ---
 
+<div align="center">
+  <h2>✨ Ready to Collaborate? Let’s Build the Future Together! ✨</h2>
+</div>
+
+---
+
 # 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-zakeer/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/Zakeertech3)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@zakeer)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/@zakeer1410)
+<div align="center">
+  <a href="https://linkedin.com/in/mohammed-zakeer/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/Zakeertech3"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://medium.com/@zakeer"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://twitter.com/@zakeer1410"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter"></a>
+</div>
 
 ---
 
@@ -85,5 +93,3 @@ Pandas 📃, NumPy 📊, Scikit-learn 🧙‍♂️, Statistics 🔢, A/B Testin
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Zakeertech3&label=Profile%20Views&color=5&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
-**✨ Ready to Collaborate? Let’s Build the Future Together! ✨**
