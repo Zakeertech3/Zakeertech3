@@ -2,53 +2,52 @@
 
 <div align="center">
   <h1>Hi there 👋, I'm Shaik Mohammed Zakeer</h1>
-  <h3>✨ Junior Data Scientist | Azure Data Engineer | Innovator ✨</h3>
+  <h3>✨ Aspiring Jr. Data Scientist | Data Analyst | Azure Data Engineer | Data Engineer ✨</h3>
 </div>
 
 ---
 
 # 💡 About Me:
-🔭 **Currently**: Junior Data Scientist, crafting data-driven solutions by building robust pipelines and training AI models.  
-🌟 **Passionate About**: Data integration, advanced analytics, and delivering actionable insights with modern tools and techniques.  
-🚀 **Skills in Action**: Building end-to-end ETL workflows using Python, SQL, and Azure services to streamline processes and unlock value.  
-🌱 **Evolving Expertise**: Exploring metadata governance, scalable data engineering, and leveraging cutting-edge tools like PySpark, Azure Synapse Analytics, and BigQuery.  
-💬 **Let's Connect**: Open to discussions on AI, big data, and workflow automation!
+🔭 **Exploring Opportunities**: Eager to dive into data roles, from wrangling messy datasets to building robust data pipelines.
+🌟 **Passionate About**: Turning raw data into gold (insights, not actual gold…yet!).
+🚀 **Data Wizardry**: Crafting ETL workflows, visualizing data, and automating tasks to make life easier (because who loves manual work, right?).
+🌱 **Growing Expertise**: Delving into metadata governance, scalable data engineering, and the magic of BigQuery & PySpark.
+🚬 **Let's Chat**: Always up for geeking out over AI, big data, or just how cool automation is!
 
 ---
 
 # 🛠️ My Toolbox:
 🔹 **Cloud & Data Tools**:  
-Azure Data Factory 🌐, Databricks 💻, Synapse Analytics 📊, Azure Data Lake Storage 🏞️  
+Azure Data Factory 🌐, Databricks 💻, Synapse Analytics 📊, Azure Data Lake Storage 🌞  
+AWS ☁️, BigQuery 🔹
+
 🔹 **Programming & Databases**:  
-Python 🐍, SQL 🛢️, MySQL, SQL Server  
-🔹 **ETL & Modeling**:  
-ETL Pipelines ⚙️, Data Integration & Transformation, Schema Design  
+Python 🐍, SQL 💣, MySQL, SQL Server, T-SQL, DAX  
+
+🔹 **ETL & Data Engineering**:  
+ETL Pipelines ⚙️, Data Integration & Transformation, Schema Design, PySpark 🔌
+
+🔹 **Data Visualization**:  
+Power BI 🌀, Matplotlib 🌈, Seaborn 🌟, Plotly 🚀
+
 🔹 **Development Environments**:  
-VS Code 📝, Jupyter Notebooks 📒  
+VS Code 📜, Jupyter Notebooks 📒, Google Colab 🔬
+
 🔹 **Version Control & CI/CD**:  
-Git 🖊️, Azure DevOps 🚀
+Git 🖊️, Azure DevOps 🚀, GitHub Actions 🔏
 
----
+🔹 **Cloud Platforms & Tools**:  
+Azure ✨, AWS ☁️, Terraform 🛠️, Docker 🚢
 
-# 📌 Key Projects:
-**1️⃣ Credit Score Classification**  
-🔹 Analyzed over 100,000 financial records for credit score patterns.  
-🔹 Built a RandomForestClassifier model with high accuracy.  
-🔹 Enhanced insights with advanced Plotly visualizations.  
-🛠️ *Tech Used*: Python, Pandas, Scikit-learn, Plotly  
-
-**2️⃣ Automated Data Pipelines**  
-🔹 Designed scalable pipelines in Azure Data Factory.  
-🔹 Leveraged PySpark for efficient data transformations.  
-🔹 Automated execution using Logic Apps and triggers.  
-🛠️ *Tech Used*: Python, SQL, Azure Data Factory  
+🔹 **Data Analysis & Machine Learning**:  
+Pandas 📃, NumPy 📊, Scikit-learn 🧙‍♂️, Statistics 🔢, A/B Testing 🔢
 
 ---
 
 # 🎓 Education & Certifications:
 🎓 **MCA**: Annamacharya Institute of Technology & Sciences (CGPA: 8.0)  
 🎓 **B.Sc. in Computer Science**: Yogi Vemana University (81%)  
-🎖️ Certifications:  
+🎖️ **Certifications**:  
 📜 Data Science (NPTEL) | 📜 Data Analysis (Microsoft) | 📜 Python Programming (Udemy)
 
 ---
