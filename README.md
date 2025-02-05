@@ -8,11 +8,12 @@
 ---
 
 # 💡 About Me:
-🔭 **Exploring Opportunities**: Eager to dive into data roles, from wrangling messy datasets to building robust data pipelines.
-🌟 **Passionate About**: Turning raw data into gold (insights, not actual gold…yet!).
-🚀 **Data Wizardry**: Crafting ETL workflows, visualizing data, and automating tasks to make life easier (because who loves manual work, right?).
-🌱 **Growing Expertise**: Delving into metadata governance, scalable data engineering, and the magic of BigQuery & PySpark.
-🚬 **Let's Chat**: Always up for geeking out over AI, big data, or just how cool automation is!
+- 🔭 **Exploring Opportunities**: Eager to dive into data roles, from wrangling messy datasets to building robust data pipelines.
+- 🌟 **Passionate About**: Turning raw data into gold (insights, not actual gold…yet!).
+- 🚀 **Data Wizardry**: Crafting ETL workflows, visualizing data, and automating tasks to make life easier (because who loves manual work, right?).
+- 🌱 **Growing Expertise**: Delving into metadata governance, scalable data engineering, and the magic of BigQuery & PySpark.
+- 🚬 **Let's Chat**: Always up for geeking out over AI, big data, or just how cool automation is!
+- 💼 **Previous Experience**: Worked as a **Jr. Data Scientist at Scale AI**, training generative AI models using **Python**, **SQL**, **BigQuery**, **A/B Testing**, **Data Analysis**, and **Data Visualization**.
 
 ---
 
