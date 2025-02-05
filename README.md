@@ -49,7 +49,7 @@ Pandas 📃, NumPy 📊, Scikit-learn 🧙‍♂️, Statistics 🔢, A/B Testin
 🎓 **MCA**: Annamacharya Institute of Technology & Sciences (CGPA: 8.0)  
 🎓 **B.Sc. in Computer Science**: Yogi Vemana University (81%)  
 🎖️ **Certifications**:  
-📜 Data Science (NPTEL) | 📜 Data Analysis (Microsoft) | 📜 Python Programming (Udemy)
+📜 Data Science (Excelr) | 📜 Data Analysis (Microsoft) | 📜 Python Programming (Udemy)
 
 ---
 
