@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Hi there 👋, I'm Shaik Mohammed Zakeer</h1>
-  <h3>✨ Software Engineer | Jr. Data Scientist ✨</h3>
+  <h3>✨ Jr. Data Scientist ✨</h3>
 </div>
 
 ---
@@ -13,7 +13,6 @@
 - 🚀 **Data Wizardry**: Crafting ETL workflows, visualizing data, and automating tasks to make life easier (because who loves manual work, right?).
 - 🌱 **Growing Expertise**: Delving into metadata governance, scalable data engineering, and the magic of BigQuery & PySpark.
 - 🚬 **Let's Chat**: Always up for geeking out over AI, big data, or just how cool automation is!
-- 💼 **Previous Experience**:**Currently working as an Software Engineer previously Worked as a Jr. Data Scientist at Scale AI**, training generative AI models using **Python**, **SQL**, **BigQuery**, **A/B Testing**, **Data Analysis**, and **Data Visualization**.
 
 ---
 
