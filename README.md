@@ -17,28 +17,23 @@
 
 ---
 
-## 🧰 My Tech Stack
+## 🧰 Tech Stack
 
-### 🛠️ Languages & Scripting
-`Python` · `SQL` · `T-SQL` · `DAX` · `JSON`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,azure,docker,git,github,pytorch,sklearn,aws,terraform,streamlit,pandas,numpy,matplotlib,seaborn,plotly" />
+</p>
 
-### 🤖 AI & ML Frameworks
-`Scikit-learn` · `TensorFlow` · `PyTorch` · `Hugging Face Transformers` · `LangChain` · `OpenAI API`
+---
 
-### 🔮 GenAI & LLM Ops
-`RLHF` · `RAG` · `Prompt Engineering` · `Chatbase.io` · `Windsurf` · `Groq LLM` · `Sentence Transformers`
+## 📈 GitHub Activity
 
-### 🔁 Automation & Orchestration
-`n8n` · `REST APIs` · `Firecrawl` · `Postman` · `API Integration`
+[![Zakeer's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zakeertech3&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### ☁️ Cloud & Data Platforms
-`Azure Data Factory` · `Azure Synapse` · `Azure Data Lake` · `AWS S3` · `BigQuery` · `Docker` · `Terraform`
+---
 
-### 🔧 Dev & CI/CD Tools
-`VS Code` · `Cursor` · `Warp` · `Git` · `GitHub Actions` · `Jupyter` · `GitHub Projects`
+## 🏙️ GitHub Skyline
 
-### 📊 Visualization & Frontend
-`Power BI` · `Streamlit` · `Dash` · `Plotly` · `Matplotlib` · `Seaborn`
+![Zakeer's GitHub Skyline](https://skyline.github.com/Zakeertech3/2025)
 
 ---
 
@@ -61,7 +56,7 @@
 
 ---
 
-## 🌐 Let’s Connect
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/mohammed-zakeer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -90,6 +85,7 @@
 ---
 
 ## ✍️ Quote of the Day
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
 </p>
