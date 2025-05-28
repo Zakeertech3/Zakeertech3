@@ -1,4 +1,4 @@
-![55a13811-45bf-41eb-9b0d-d981380be725](https://github.com/user-attachments/assets/525eaeae-5d75-495d-9465-975b483fce42)
+![hero](https://github.com/ZakeerS/ZakeerS/assets/135118498/c1cd9932-9565-4d47-8232-9386a5e36f5f)
 
 <div align="center">
   <h1>Hey there 👋 I'm Shaik Mohammed Zakeer</h1>
@@ -9,11 +9,11 @@
 
 ## 🔍 About Me
 
-- 🧠 I work at the intersection of data engineering, AI, and automation
-- 🔄 Specialized in **RLHF**, Generative AI, and Retrieval-Augmented Generation (RAG) workflows
-- ⚡ From prompt engineering to model fine-tuning, I build intelligent, efficient data solutions
-- 🌱 Constantly learning — currently diving into metadata governance, LLM ops, and cloud-scale data systems
-- 🛠️ I automate the boring stuff and enhance the fun stuff with data
+- 🧠 I work at the intersection of data engineering, AI, and automation.
+- 🔄 Specialized in **RLHF**, Generative AI, and Retrieval-Augmented Generation (RAG) workflows.
+- ⚡ From prompt engineering to model fine-tuning, I build intelligent, efficient data solutions.
+- 🌱 Constantly learning — currently diving into metadata governance, LLM ops, and cloud-scale data systems.
+- 🛠️ I automate the boring stuff and enhance the fun stuff with data.
 
 ---
 
@@ -22,18 +22,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,sql,azure,docker,git,github,pytorch,sklearn,aws,terraform,streamlit,pandas,numpy,matplotlib,seaborn,plotly" />
 </p>
-
----
-
-## 📈 GitHub Activity
-
-[![Zakeer's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zakeertech3&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🏙️ GitHub Skyline
-
-![Zakeer's GitHub Skyline](https://skyline.github.com/Zakeertech3/2025)
 
 ---
 
@@ -84,14 +72,14 @@
 
 ---
 
+## 📊 GitHub Activity
+
+[![Zakeer's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zakeertech3&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ## ✍️ Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Zakeertech3&label=Profile%20Views&color=0&icon=5" />
 </p>
