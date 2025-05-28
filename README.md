@@ -1,4 +1,5 @@
-![🫧⭒𝗟𝘂𝗳𝗳𝘆˙ ✩°˖](https://github.com/user-attachments/assets/e38d85a6-4c5b-4f1a-8928-fc14300c9cbb)
+![【LUFFY】 ⁀➷ Wallpaper ✪](https://github.com/user-attachments/assets/5cad48e0-70b8-40bb-bb37-9d9378833511)
+
 
 <div align="center">
   <h1>Hey there 👋 I'm Shaik Mohammed Zakeer</h1>
