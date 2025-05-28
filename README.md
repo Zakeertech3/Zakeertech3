@@ -1,4 +1,4 @@
-![【LUFFY】 ⁀➷ Wallpaper ✪](https://github.com/user-attachments/assets/df1c916a-bdd2-4f3f-8be7-c380de432926)
+[![【LUFFY】 ⁀➷ Wallpaper ✪](https://github.com/user-attachments/assets/df1c916a-bdd2-4f3f-8be7-c380de432926)](https://pin.it/2UARSdPnk)
 
 
 <div align="center">
