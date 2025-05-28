@@ -9,19 +9,36 @@
 
 ## 🔍 About Me
 
-- 🧠 I work at the intersection of data engineering, AI, and automation.
-- 🔄 Specialized in **RLHF**, Generative AI, and Retrieval-Augmented Generation (RAG) workflows.
-- ⚡ From prompt engineering to model fine-tuning, I build intelligent, efficient data solutions.
-- 🌱 Constantly learning — currently diving into metadata governance, LLM ops, and cloud-scale data systems.
-- 🛠️ I automate the boring stuff and enhance the fun stuff with data.
+- 🧠 I work at the intersection of data engineering, AI, and automation
+- 🔄 Specialized in **RLHF**, Generative AI, and Retrieval-Augmented Generation (RAG) workflows
+- ⚡ From prompt engineering to model fine-tuning, I build intelligent, efficient data solutions
+- 🌱 Constantly learning — currently diving into metadata governance, LLM ops, and cloud-scale data systems
+- 🛠️ I automate the boring stuff and enhance the fun stuff with data
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 My Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,azure,docker,git,github,pytorch,sklearn,aws,terraform,streamlit,pandas,numpy,matplotlib,seaborn,plotly" />
-</p>
+### 🛠️ Languages & Scripting
+`Python` · `SQL` · `T-SQL` · `DAX` · `JSON`
+
+### 🤖 AI & ML Frameworks
+`Scikit-learn` · `TensorFlow` · `PyTorch` · `Hugging Face Transformers` · `LangChain` · `OpenAI API`
+
+### 🔮 GenAI & LLM Ops
+`RLHF` · `RAG` · `Prompt Engineering` · `Chatbase.io` · `Windsurf` · `Groq LLM` · `Sentence Transformers`
+
+### 🔁 Automation & Orchestration
+`n8n` · `REST APIs` · `Firecrawl` · `Postman` · `API Integration`
+
+### ☁️ Cloud & Data Platforms
+`Azure Data Factory` · `Azure Synapse` · `Azure Data Lake` · `AWS S3` · `BigQuery` · `Docker` · `Terraform`
+
+### 🔧 Dev & CI/CD Tools
+`VS Code` · `Cursor` · `Warp` · `Git` · `GitHub Actions` · `Jupyter` · `GitHub Projects`
+
+### 📊 Visualization & Frontend
+`Power BI` · `Streamlit` · `Dash` · `Plotly` · `Matplotlib` · `Seaborn`
 
 ---
 
@@ -44,7 +61,7 @@
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Let’s Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/mohammed-zakeer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -72,14 +89,7 @@
 
 ---
 
-## 📊 GitHub Activity
-
-[![Zakeer's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zakeertech3&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ## ✍️ Quote of the Day
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
 </p>
