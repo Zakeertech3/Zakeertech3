@@ -79,7 +79,6 @@ I am an **Associate Data Engineer** bridging the gap between heavy infrastructur
   <a href="https://github.com/Zakeertech3" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://medium.com/@zakeer1410" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://x.com/zakeer1410" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://bento.me/zakeer" target="_blank"><img src="https://img.shields.io/badge/Bento-000000?style=for-the-badge&logo=bento&logoColor=white"/></a>
 </p>
 
 ---
