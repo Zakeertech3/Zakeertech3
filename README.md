@@ -1,64 +1,74 @@
 ![【LUFFY】 ⁀➷ Wallpaper ✪](https://github.com/user-attachments/assets/5cad48e0-70b8-40bb-bb37-9d9378833511)
 
-
 <div align="center">
   <h1>Hey there 👋 I'm Shaik Mohammed Zakeer</h1>
-  <h3>🚀 Junior Data Scientist | AI Enthusiast | GenAI Explorer</h3>
+  <h3>🚀 Associate Data Engineer | Azure Specialist | AI Agent Builder</h3>
 </div>
 
 ---
 
 ## 🔍 About Me
 
-- 🧠 I work at the intersection of data engineering, AI, and automation
-- 🔄 Specialized in **RLHF**, Generative AI, and Retrieval-Augmented Generation (RAG) workflows
-- ⚡ From prompt engineering to model fine-tuning, I build intelligent, efficient data solutions
-- 🌱 Constantly learning — currently diving into metadata governance, LLM ops, and cloud-scale data systems
-- 🛠️ I automate the boring stuff and enhance the fun stuff with data
+> **"Building reliable pipelines and award-winning GenAI agents to solve real business problems."**
+
+I am an **Associate Data Engineer** bridging the gap between heavy infrastructure and modern AI.
+- 🏗️ **Core Engineering:** I manage 50+ production pipelines using **Azure Data Factory**, **Databricks**, and **SQL**, ensuring data is clean, timely, and actionable.
+- 🤖 **AI Innovation:** Beyond ETL, I build autonomous systems—recently winning **"Best Agentic Project"** at the Kong API Summit 2025.
+- 🎯 **Focus:** I specialize in refactoring legacy code into modern **PySpark** architectures and building cost-optimized **RAG** workflows.
 
 ---
 
 ## 🧰 My Tech Stack
 
+### ☁️ Cloud & Data Engineering
+`Azure Data Factory` · `Azure Databricks` · `PySpark` · `ADLS Gen2` · `Microsoft Fabric` · `Synapse Analytics` · `Delta Lake`
+
 ### 🛠️ Languages & Scripting
-`Python` · `SQL` · `T-SQL` · `DAX` · `JSON`
+`Python (Pandas, NumPy)` · `Advanced SQL (T-SQL)` · `Bash` · `DAX`
 
-### 🤖 AI & ML Frameworks
-`Scikit-learn` · `TensorFlow` · `PyTorch` · `Hugging Face Transformers` · `LangChain` · `OpenAI API`
+### 🤖 Generative AI & LLMs
+`Agentic Workflows` · `RAG Pipelines` · `LangChain` · `Vector Databases (ChromaDB)` · `Prompt Engineering` · `RLHF`
 
-### 🔮 GenAI & LLM Ops
-`RLHF` · `RAG` · `Prompt Engineering` · `Chatbase.io` · `Windsurf` · `Groq LLM` · `Sentence Transformers`
+### 📊 Databases & Analytics
+`SQL Server` · `PostgreSQL` · `MongoDB` · `Cosmos DB` · `Power BI` · `Microsoft Excel`
 
-### 🔁 Automation & Orchestration
-`n8n` · `REST APIs` · `Firecrawl` · `Postman` · `API Integration`
-
-### ☁️ Cloud & Data Platforms
-`Azure Data Factory` · `Azure Synapse` · `Azure Data Lake` · `AWS S3` · `BigQuery` · `Docker` · `Terraform`
-
-### 🔧 Dev & CI/CD Tools
-`VS Code` · `Cursor` · `Warp` · `Git` · `GitHub Actions` · `Jupyter` · `GitHub Projects`
-
-### 📊 Visualization & Frontend
-`Power BI` · `Streamlit` · `Dash` · `Plotly` · `Matplotlib` · `Seaborn`
+### 🔧 DevOps & Tools
+`Git/GitHub` · `Docker` · `CI/CD` · `Azure Monitor` · `FastAPI` · `VS Code`
 
 ---
 
-## 📜 Certifications
+## 🚀 Featured Projects
 
-- 🧠 Data Science – Excelr  
-- 🤖 Advanced NLP – LinkedIn Learning  
-- 🧬 Deep Learning & Neural Networks – LinkedIn Learning  
-- 🐍 Python (Advanced) – Udemy  
-- 💻 Software Engineer Cert – HackerRank
+### 🏆 Customer Support Agent with AI Gateway (Hackathon Winner)
+*Winner of "Best Agentic Project" at Kong API Summit 2025*
+- **Problem:** Balancing high-quality AI support with operational costs.
+- **Solution:** Architected an intelligent router using **Kong Gateway** that sends simple queries to smaller models (Llama-3) and complex ones to larger models (Falcon-180B/GPT-4), reducing costs to <$0.10/query.
+- **Stack:** `Python` `FastAPI` `Kong Gateway` `LangChain` `ChromaDB` `Docker`
+
+### 🚛 UrbanMart: End-to-End Data Pipeline
+- **Overview:** A scalable ETL pipeline ingesting large-scale datasets from AWS S3 to actionable dashboards.
+- **Key Tech:** Implemented parallelized data validation using **Dask** and fuzzy matching for data cleaning.
+- **Stack:** `Python` `Pandas` `Dask` `AWS S3` `Dash/Plotly` `Docker`
 
 ---
 
 ## 🏅 Achievements
 
-- 🥇 1st Place – Data Engineering Hackathon  
-- 🏆 Top 20 – HackerEarth ML Contest (88% accuracy)  
-- 🧑‍🤝‍🧑 Volunteered at PyConf Hyderabad (LangDB.AI)  
-- 💡 Contributor – GitTogether GitHub Copilot Event
+- 🥇 **Winner - Best Agentic Project:** Kong API Summit 2025 Hackathon.
+- 🥇 **1st Place:** Data Engineering Hackathon (Built real-time pipeline in <24hrs).
+- 🧑‍🏫 **Volunteer Mentor:** GitHub Copilot Event (Guided 50+ participants in AI workflows).
+- 🏆 **Top 20:** HackerEarth ML Contest (88% Accuracy).
+- 🗣️ **Co-Organizer:** Kong API Events (Hyderabad Chapter).
+
+---
+
+## 📜 Certifications
+
+- 🧠 Data Science – Excelr
+- 🤖 Advanced NLP with Python – LinkedIn Learning
+- 🧬 Deep Learning & Neural Networks – LinkedIn Learning
+- 🐍 Python (Advanced) – Udemy
+- 💻 Software Engineer Certificate – HackerRank
 
 ---
 
