@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Hey there 👋 I'm Shaik Mohammed Zakeer</h1>
-  <h3>🚀 Associate Data Engineer | Azure Specialist | AI Agent Builder</h3>
+  <h3>🚀 Software Engineer(Data + AI) | Azure Specialist | AI Agent Builder</h3>
 </div>
 
 ---
@@ -11,7 +11,7 @@
 
 > **"Building reliable pipelines and award-winning GenAI agents to solve real business problems."**
 
-I am an **Software Engineer** bridging the gap between heavy infrastructure and modern AI.
+I am a **Software Engineer** bridging the gap between heavy infrastructure and modern AI.
 - 🏗️ **Core Engineering:** I manage 50+ production pipelines using **Azure Data Factory**, **Databricks**, and **SQL**, ensuring data is clean, timely, and actionable.
 - 🤖 **AI Innovation:** Beyond ETL, I build autonomous systems—recently winning **"Best Agentic Project"** at the Kong API Summit 2025.
 - 🎯 **Focus:** I specialize in refactoring legacy code into modern **PySpark** architectures and building cost-optimized **RAG** workflows.
