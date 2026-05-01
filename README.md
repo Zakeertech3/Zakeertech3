@@ -12,7 +12,7 @@
 > **"Building reliable pipelines and award-winning GenAI agents to solve real business problems."**
 
 I am a **Software Engineer** bridging the gap between heavy infrastructure and modern AI.
-- 🏗️ **Core Engineering:** I manage 50+ production pipelines using **Azure Data Factory**, **Databricks**, and **SQL**, ensuring data is clean, timely, and actionable.
+- 🏗️ **Core Engineering:** I manage ETL production pipelines using **Azure Data Factory**, **Databricks**, and **SQL**, ensuring data is clean, timely, and actionable.
 - 🤖 **AI Innovation:** Beyond ETL, I build autonomous systems—recently winning **"Best Agentic Project"** at the Kong API Summit 2025.
 - 🎯 **Focus:** I specialize in refactoring legacy code into modern **PySpark** architectures and building cost-optimized **RAG** workflows.
 
