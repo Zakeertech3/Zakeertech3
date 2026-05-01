@@ -21,19 +21,19 @@ I am a **Software Engineer** bridging the gap between heavy infrastructure and m
 ## 🧰 My Tech Stack
 
 ### ☁️ Cloud & Data Engineering
-`Azure Data Factory` · `Azure Databricks` · `PySpark` · `ADLS Gen2` · `Microsoft Fabric` · `Synapse Analytics` · `Delta Lake`
+`Azure Data Factory` · `Azure Databricks` · `PySpark` · `ADLS Gen2` · `Microsoft Fabric`· `Delta Lake`
 
 ### 🛠️ Languages & Scripting
-`Python (Pandas, NumPy)` · `Advanced SQL (T-SQL)` · `Bash` · `DAX`
+`Python (Pandas, NumPy)` · `Advanced SQL (T-SQL)` · `PySpark`
 
 ### 🤖 Generative AI & LLMs
 `Agentic Workflows` · `RAG Pipelines` · `LangChain` · `Vector Databases (ChromaDB)` · `Prompt Engineering` · `RLHF`
 
 ### 📊 Databases & Analytics
-`SQL Server` · `PostgreSQL` · `MongoDB` · `Cosmos DB` · `Power BI` · `Microsoft Excel`
+`SQL Server` · `Snowflake` · `MongoDB`· `Power BI` · `Synapse Analytics`
 
 ### 🔧 DevOps & Tools
-`Git/GitHub` · `Docker` · `CI/CD` · `Azure Monitor` · `FastAPI` · `VS Code`
+`Git/GitHub` · `Docker` · `CI/CD` · `Azure Monitor` · `FastAPI` · `VS Code`, `Jira`, `Agile`, `Streamlit`, `Gradio`, `Flask`
 
 ---
 
