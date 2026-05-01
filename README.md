@@ -11,7 +11,7 @@
 
 > **"Building reliable pipelines and award-winning GenAI agents to solve real business problems."**
 
-I am an **Associate Data Engineer** bridging the gap between heavy infrastructure and modern AI.
+I am an **Software Engineer** bridging the gap between heavy infrastructure and modern AI.
 - 🏗️ **Core Engineering:** I manage 50+ production pipelines using **Azure Data Factory**, **Databricks**, and **SQL**, ensuring data is clean, timely, and actionable.
 - 🤖 **AI Innovation:** Beyond ETL, I build autonomous systems—recently winning **"Best Agentic Project"** at the Kong API Summit 2025.
 - 🎯 **Focus:** I specialize in refactoring legacy code into modern **PySpark** architectures and building cost-optimized **RAG** workflows.
@@ -77,9 +77,7 @@ I am an **Associate Data Engineer** bridging the gap between heavy infrastructur
 <p align="center">
   <a href="https://linkedin.com/in/mohammed-zakeer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Zakeertech3" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://medium.com/@zakeer1410" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://x.com/zakeer1410" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
+  <a href="https://medium.com/@zakeer1410" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></p>
 
 ---
 
